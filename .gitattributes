@@ -1,0 +1,2 @@
+# Mark BERTopic HTML visualisations as generated — excluded from language stats
+breakdowns/topics/visualizations/*.html linguist-generated=true
